@@ -1,0 +1,6 @@
+level: INFO
+appenders:
+  - type: tcp
+    threshold: ALL
+    host: localhost
+    port: 24562
